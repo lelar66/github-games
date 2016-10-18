@@ -7,3 +7,8 @@ You can play the game at: https://lelar66.github.io/github-games/
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+# Instructions!
+* Click the link
+* Press spacebar
+* Play Tetris!
+* Be delighted.
